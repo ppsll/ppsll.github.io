@@ -1,11 +1,16 @@
 央视频道,#genre#
 CCTV1综合,http://117.158.166.73:5003/cctv1.m3u8
+CCTV1综合,http://36.32.99.228:5003/cctv1.m3u8
 CCTV2财经,http://117.158.166.73:5003/cctv2.m3u8
+CCTV2财经http://36.32.99.228:5003/cctv2.m3u8
 CCTV3综艺,http://117.158.166.73:5003/cctv3.m3u8
+CCTV3综艺http://36.32.99.228:5003/cctv3.m3u8
 CCTV4国际,http://117.158.166.73:5003/cctv4.m3u8
+CCTV4国际http://36.32.99.228:5003/cctv4.m3u8
 CCTV4欧洲,http://123.12.38.149:8872/live1645.m3u8
 CCTV4美洲,http://123.12.38.149:8873/live1655.m3u8
 CCTV5体育,http://117.158.166.73:5003/cctv5.m3u8
+CCTV5体育http://36.32.99.228:5003/cctv5.m3u8
 CCTV5+体育赛事,http://120.237.149.185:5003/cctv5p.m3u8
 CCTV6电影,http://117.158.166.73:5003/cctv6.m3u8
 CCTV7国防军事,http://117.158.166.73:5003/cctv7.m3u8
