@@ -1,40 +1,23 @@
-#移动专区
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="移动专区",CCTV1
-http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="移动专区",CCTV2
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="移动专区",CCTV3
-http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="移动专区",CCTV4
-http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="移动专区",CCTV5
-http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="移动专区",CCTV5+
-http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="移动专区",CCTV6
-http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="移动专区",CCTV7
-http://39.135.135.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="移动专区",CCTV8
-http://39.135.135.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="移动专区",CCTV9
-http://39.135.135.38/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="移动专区",CCTV10
-http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="移动专区",CCTV11
-http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="移动专区",CCTV12
-http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="移动专区",CCTV13
-http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="移动专区",CCTV14
-http://39.135.133.173/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="移动专区",CCTV15
-http://39.134.65.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="移动专区",CCTV16
-http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="移动专区",CCTV17
-http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+央视频道,#genre#
+CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2.http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+CCTV5,http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+CCTV5+,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://39.135.135.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://39.135.135.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://39.135.135.38/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://39.135.133.173/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+CCTV15,http://39.134.65.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+卫视频道,#genre#
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="移动专区",湖南卫视
 http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="移动专区",江苏卫视
